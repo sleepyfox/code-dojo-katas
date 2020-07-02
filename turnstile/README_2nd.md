@@ -4,7 +4,7 @@ Now that you've implemented the first part of the kata, create a new folder and 
 
 * A safe has two states: locked and unlocked;
 * The safe has a keypad with the letters A to F on it;
-* A code consisting of entering the sequence of keypresses D, E, A and D must be entered in the correct order in order for the safe to be unlocked;
+* A code consisting of entering the sequence of keypresses D, E, E and D must be entered in the correct order in order for the safe to be unlocked;
 * There is no indication that a correct key has been pressed;
 * There is recognisable feedback when the safe is unlocked;
 * Any incorrect keypress will reset the sequence and force the opener to start again;
