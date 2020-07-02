@@ -4,7 +4,7 @@
   "description": "An implementation of the turnstile kata",
   "main": "",
   "scripts": {
-    "test": "node test_turnstile.js",
+    "test": "node test_safe.js",
     "watch": "while true; do inotifywait -e modify *.js; npm test; done"
   },
   "keywords": [
