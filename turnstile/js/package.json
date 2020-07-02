@@ -1,0 +1,21 @@
+{
+  "name": "turnstile",
+  "version": "1.0.0",
+  "description": "An implementation of the turnstile kata",
+  "main": "",
+  "scripts": {
+    "test": "node test_turnstile.js",
+    "watch": "while true; do inotifywait -e modify *.js; npm test; done"
+  },
+  "keywords": [
+    "kata",
+    "test",
+    "TDD",
+    "FSM"
+  ],
+  "author": "@sleepyfox <sleepyfox@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@gowerstreet/infintestimal": "^1.1.1"
+  }
+}
