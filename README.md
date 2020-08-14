@@ -4,7 +4,8 @@ A collection of katas used in previous London Code Dojo meetups.
 
 ## Katas
 
-- [Data munge](./munge)
+- [Data munge](./munge/README.md)
+- [Turnstile](./turnstile/README.md)
 - ...
 
 # LICENSE
