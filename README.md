@@ -6,6 +6,7 @@ A collection of katas used in previous London Code Dojo meetups.
 
 - [Data munge](./munge/README.md)
 - [Turnstile](./turnstile/README.md)
+- [Rock, Paper, Scissors](./rock-paper-scissors/README.md)
 - ...
 
 # LICENSE
