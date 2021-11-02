@@ -1,0 +1,29 @@
+{
+  "name": "bowling-scores",
+  "version": "1.0.0",
+  "description": "An implementation of the bowling scores kata in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sleepyfox/code-dojo-katas.git"
+  },
+  "keywords": [
+    "code",
+    "dojo",
+    "kata",
+    "TDD",
+    "bowling"
+  ],
+  "author": "@sleepyfox",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/sleepyfox/code-dojo-katas/issues"
+  },
+  "homepage": "https://github.com/sleepyfox/code-dojo-katas#readme",
+  "devDependencies": {
+    "jasmine": "^3.10.0"
+  }
+}
